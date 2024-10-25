@@ -1,0 +1,12 @@
+com\accessmanagement\model\Request.class
+com\accessmanagement\model\UserDAO.class
+com\accessmanagement\model\Software.class
+com\accessmanagement\util\DBConnection.class
+com\accessmanagement\model\SoftwareDAO.class
+com\accessmanagement\servlet\LoginServlet.class
+com\accessmanagement\servlet\SignUpServlet.class
+com\accessmanagement\servlet\ApprovalServlet.class
+com\accessmanagement\model\User.class
+com\accessmanagement\servlet\RequestServlet.class
+com\accessmanagement\model\RequestDAO.class
+com\accessmanagement\servlet\SoftwareServlet.class
