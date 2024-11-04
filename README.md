@@ -13,7 +13,7 @@ To get started, clone this repository to your local machine:
 3. Run the following command:
 
    ```bash
-   git clone https://github.com/SagarD-123/User_Access_Management.git
+   git clone -b master https://github.com/SagarD-123/User_Access_Management.git
    ```
 
 ---
